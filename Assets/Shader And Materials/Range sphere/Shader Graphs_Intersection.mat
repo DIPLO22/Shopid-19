@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Intersection
+  m_Shader: {fileID: -6465566751694194690, guid: d51be5228860767438cd1765302313ef,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_2706743: 0
+    - Vector1_CBCE5722: 0.2
+    - Vector1_EC622C10: 5.41
+    - _effectIntersect: 0
+    m_Colors:
+    - Color_71029331: {r: 5.992157, g: 0.15686275, b: 0.15686275, a: 0}
